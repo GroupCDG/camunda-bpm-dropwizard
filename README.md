@@ -2,9 +2,6 @@
 
 The power of camunda and REST in a single jar.
 
-![Screenshot or code snippet](http://placehold.it/550x350&text=Image%20or%20code%20snippet%20if%20applicable)
-
-
 ## Get started
 
 _A quick description how your project can be used, including where the relevant resources can be obtained from.
@@ -22,7 +19,6 @@ Put into another file if too big._
 * [Changelog](link-to-changelog) _lets users track progress on what has been happening_
 * [Download](link-to-downloadable-archive) _if downloadable_
 * [Contributing](link-to-contribute-guide) _if desired, best to put it into a CONTRIBUTE.md file_
-
 
 ## Roadmap
 
@@ -55,7 +51,8 @@ _specify a short list of things that yet need to be done (unless you organize it
 
 ## Maintainer
 
-* [Jan Galinski](https://github.com/jangalinski), [Holisticon AG](http://www.holisticon.de/)
+This was originally maintained by Jan Galinski, and subsequently contributed to by Chris Pheby.
+As the original project is no longer maintained, CDG is maintaining this fork to support client engagements.
 
 ## License
 
